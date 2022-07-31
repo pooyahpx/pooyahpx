@@ -1,8 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Pooyahpx</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/73234330/182005103-5cd1d7b3-a040-4195-b9d7-1b56b30571e4.gif">
+<img align="right" alt="Coding" width="400" src="https://bayanbox.ir/info/1353559592827697052/programmer">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pooyahpx&label=Profile%20views&color=0e75b6&style=flat" alt="pooyahpx" /> </p>
 
