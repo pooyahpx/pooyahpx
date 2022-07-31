@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://cdn.discordapp.com/attachments/1003105421596311583/1003106365985792080/54b6c068097599.5b50bca476b9b.gif)
+[![MasterHead](https://cdn.discordapp.com/attachments/1003105421596311583/1003106365985792080/54b6c068097599.5b50bca476b9b.gif)
 
 <h1 align="center">Hi 👋, I'm Pooyahpx</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
