@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pooyahpx</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
-<img align="right" alt="Coding" width="400" src="https://bayanbox.ir/view/1353559592827697052/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/1003105421596311583/1003105748772978839/programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pooyahpx&label=Profile%20views&color=0e75b6&style=flat" alt="pooyahpx" /> </p>
 
