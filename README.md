@@ -9,6 +9,12 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 🔭 I’m currently working on **TRANSFER WEB**
+
+- 🌱 I’m currently learning **test**
+
+- 💬 Ask me about **Everything you want**
+
 - 📫 How to reach me **pooyahplife@gmail.com**
 
 - ⚡ Fun fact **Error is god**
