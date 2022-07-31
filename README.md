@@ -11,8 +11,6 @@
 
 - 🔭 I’m currently working on **TRANSFER WEB**
 
-- 🌱 I’m currently learning **test**
-
 - 💬 Ask me about **Everything you want**
 
 - 📫 How to reach me **pooyahplife@gmail.com**
