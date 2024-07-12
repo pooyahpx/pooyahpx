@@ -2,7 +2,7 @@
 # POYAHPX 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif](https://i.pinimg.com/originals/e8/4e/db/e84edb279472c7ab49e97ec276d4ffda.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/user-attachments/assets/c3ea93cc-e65d-4fae-af11-0c2bb2a5af49">
 </div>
 
 </br>
